@@ -1,6 +1,6 @@
 {
   "codeowners": ["@luke"],
-  "config_flow": True,
+  "config_flow": true,
   "dependencies": [],
   "documentation": "google.com",
   "domain": "github-custom",
